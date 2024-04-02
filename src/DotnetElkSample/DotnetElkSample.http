@@ -1,0 +1,6 @@
+@DotnetElkSample_HostAddress = http://localhost:5167
+
+GET {{DotnetElkSample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
